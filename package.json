@@ -20,13 +20,10 @@
       "lcov"
     ]
   },
-  "author": {
-    "name": "Test Example",
-    "email": "test@example.com"
-  },
+  "author": "Test Example <test@example.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Flashpay/paymentpage-sdk-js"
+    "url": "git+https://github.com/flashpaykg/paymentpage-sdk-js.git"
   },
   "license": "MIT",
   "devDependencies": {
@@ -34,5 +31,9 @@
     "eslint-config-airbnb-base": "^13.0.0",
     "eslint-plugin-import": "^2.13.0",
     "jest": "^23.2.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/flashpaykg/paymentpage-sdk-js/issues"
+  },
+  "homepage": "https://github.com/flashpaykg/paymentpage-sdk-js#readme"
 }
